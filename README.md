@@ -7,4 +7,4 @@ b) to_nary.py
 
 For Wiki dataset there are following one python program which creates modified dataset for companion property:
 
-a) cp2.py
+a) to_cp.py
